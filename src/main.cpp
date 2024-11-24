@@ -30,7 +30,7 @@ TimeChangeRule *tcr;           // pointer to the time change rule, use to get TZ
 
 /*-------- PREFERENCES ----------*/
 String credentials[][2] = {
-    {"Xiaomi_065C", "43v3ry0nG"},
+    {"YoirSSID", "YourPASSWORD"},
     {"OptionalOtherSSID", "OptionalOtherSSDPassword"},
 };
 const bool SHOW_24HOUR = true;
